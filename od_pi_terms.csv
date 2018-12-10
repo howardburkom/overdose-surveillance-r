@@ -1,0 +1,9 @@
+Primary.Impression,not_n,od_n,not_prop,od_prop,sigdiff,wordtype,pval,score
+Traumatic Injury,85,0,0.2316076294,0,1,-1,4.25E-05,-5
+Altered Level of Consciousness,32,24,0.08719346049,0.380952381,1,1,5.73E-10,2
+Substance/Drug Abuse,2,10,0.005449591281,0.1587301587,1,1,1.45E-10,4
+Poisoning / Drug Ingestion,1,16,0.00272479564,0.253968254,1,1,8.67E-20,5
+Traumatic Injury (T14.90),0,0,0,0,0,0,0,-5
+Altered Level of Consciousness (R41.82),0,0,0,0,0,0,0,2
+Unconscious (R40.20),0,0,0,0,0,0,0,2
+Overdose / Poisoning / Ingestion (F19),0,0,0,0,0,0,0,5
